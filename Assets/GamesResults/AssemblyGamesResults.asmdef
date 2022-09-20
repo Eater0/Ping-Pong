@@ -1,0 +1,19 @@
+{
+    "name": "AssemblyGamesResults",
+    "rootNamespace": "",
+    "references": [
+        "GUID:262e88604a56c7b4f9b43e45f27e0495",
+        "GUID:ab3efca4c0b860941ab4fba09de56b0c",
+        "GUID:2412961df26e7bd4a8ffc994982a1436",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
